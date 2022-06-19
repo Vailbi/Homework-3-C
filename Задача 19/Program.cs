@@ -17,7 +17,8 @@ else
     Console.WriteLine("нет");
    
 }
-/* string number1 = Console.ReadLine();
+
+/* string number1 = Console.ReadLine();                       //версия черех массив и строку
 
 
 if (number1[0]==number1[4] && number1[1]==number1[3])
